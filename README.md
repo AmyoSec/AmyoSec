@@ -1,4 +1,4 @@
-# Hola, mi nombre es Ametz Llosa 👋
+# Hi, my name is Ametz LLosa 👋
 ### Founder & Lead Developer at AmyoSec • Cybersecurity & Software Engineering
 
 ---
@@ -22,8 +22,7 @@ Actualmente me encuentro construyendo de manera privada e independiente la infra
 > **Herramienta web interactiva para transformar scripts SQL DDL en diagramas de bases de datos (ERD).** Arquitectura serverless ejecutada 100% en el cliente para máxima privacidad y rendimiento.
 
 <a href="https://github.com/AmyoSec/sql-to-diagram">
-  <!-- Banner principal (Sustituye esta URL por tu diseño cuando lo subas a tu repo) -->
-  <img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1200&h=400&fit=crop" alt="SQL To Diagram" width="100%">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/543697888149340284_0" alt="SQL To Diagram" width="100%">
 </a>
 <p align="left">
   <a href="https://github.com/AmyoSec/sql-to-diagram">
@@ -38,8 +37,7 @@ Actualmente me encuentro construyendo de manera privada e independiente la infra
 > **Estructura central del roadmap técnico, definiciones curriculares y código web de la plataforma.** Diseñado bajo un entorno modular, optimizado para despliegue continuo en la nube y entrega global inmediata.
 
 <a href="https://github.com/AmyoSec/amyosec-path-source">
-  <!-- Banner principal (Sustituye esta URL por tu diseño cuando lo subas a tu repo) -->
-  <img src="https://images.unsplash.com/photo-1516116211223-5c359a36298a?q=80&w=1200&h=400&fit=crop" alt="AmyoSec Path" width="100%">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/7409739107300380302_0" alt="AmyoSec Path" width="100%">
 </a>
 <p align="left">
   <a href="https://github.com/AmyoSec/amyosec-path-source">
