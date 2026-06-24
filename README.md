@@ -1,18 +1,14 @@
 # Hi, I'm Ametz Llosa 👋
-### Founder & Lead Developer at AmyoSec • Cybersecurity & Software Engineering
+### Founder of AmyoSec • Building Phase 1 (Foundation)
 
 ---
 
 <!-- HEADER BADGES -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_DISCORD_LINK_HERE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase">
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="YOUR_DISCORD_LINK_HERE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase"></p>
 
-I am a cybersecurity analyst and software engineer focused on building secure, modular applications with a solid architectural foundation. 
+I am an independent developer dedicated to mastering core computer science foundations and cybersecurity principles. 
 
-Currently, I am independently developing the initial technical infrastructure of **AmyoSec** in private. My goal is to consolidate advanced proprietary tools and structured learning methodologies prior to the platform's official public launch.
+In line with AmyoSec's commitment to complete transparency, I am documenting my growth and building the technical infrastructure of the platform from the absolute ground up. Phase 1 is strictly focused on consolidating my fundamentals and creating proprietary utilities before the official public ecosystem launch.
 
 ---
 
