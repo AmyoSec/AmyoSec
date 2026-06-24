@@ -1,4 +1,4 @@
-# Hi, my name is Ametz LLosa 👋
+# Hola, mi nombre es Ametz Llosa 👋
 ### Founder & Lead Developer at AmyoSec • Cybersecurity & Software Engineering
 
 ---
@@ -19,26 +19,21 @@ Actualmente me encuentro construyendo de manera privada e independiente la infra
 ## 🚀 Proyectos Destacados (Fase 1)
 
 ### 📊 SQL To Diagram (Harvard CS50x Final Project)
-> **Herramienta web interactiva para transformar scripts SQL DDL en diagramas de bases de datos (ERD).** Arquitectura serverless ejecutada 100% en el cliente para máxima privacidad y rendimiento.
+> Herramienta web interactiva para transformar scripts SQL DDL en diagramas de bases de datos visuales (ERD). Desarrollada bajo una arquitectura enteramente serverless que se ejecuta en el cliente para garantizar la máxima privacidad y velocidad.
 
-<a href="https://github.com/AmyoSec/sql-to-diagram">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/543697888149340284_0" alt="SQL To Diagram" width="100%">
-</a>
 <p align="left">
   <a href="https://github.com/AmyoSec/sql-to-diagram">
-    <img src="https://img.shields.io/badge/Proyecto-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo">
+    <img src="https://img.shields.io/badge/Repositorio-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo">
   </a>
   <img src="https://img.shields.io/badge/Acceso-Privado-red?style=flat-square" alt="Privado">
   <img src="https://img.shields.io/badge/Licencia-PolyForm%20NC-orange?style=flat-square" alt="Licencia">
 </p>
+
 <br>
 
 ### 🗺️ AmyoSec Technical Path
-> **Estructura central del roadmap técnico, definiciones curriculares y código web de la plataforma.** Diseñado bajo un entorno modular, optimizado para despliegue continuo en la nube y entrega global inmediata.
+> Estructura central del roadmap técnico interactivo, definiciones curriculares y código fuente de la plataforma web. Diseñado bajo un entorno modular moderno y optimizado para despliegue continuo en la nube con entrega global inmediata.
 
-<a href="https://github.com/AmyoSec/amyosec-path-source">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/7409739107300380302_0" alt="AmyoSec Path" width="100%">
-</a>
 <p align="left">
   <a href="https://github.com/AmyoSec/amyosec-path-source">
     <img src="https://img.shields.io/badge/Ruta-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo">
