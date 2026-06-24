@@ -1,50 +1,38 @@
-# Hola, mi nombre es Ametz Llosa 👋
+# Hi, I'm Ametz Llosa 👋
 ### Founder & Lead Developer at AmyoSec • Cybersecurity & Software Engineering
 
 ---
 
-<!-- BOTONES DE CABECERA -->
+<!-- HEADER BADGES -->
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="YOUR_DISCORD_LINK_HERE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Ecosistema-Fase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Fase">
+  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase">
 </p>
 
-Soy analista de ciberseguridad y desarrollador de software enfocado en la creación de aplicaciones seguras, modulares y con una sólida base arquitectónica. 
+I am a cybersecurity analyst and software engineer focused on building secure, modular applications with a solid architectural foundation. 
 
-Actualmente me encuentro construyendo de manera privada e independiente la infraestructura técnica inicial de **AmyoSec**. Mi objetivo es consolidar herramientas propietarias avanzadas y metodologías de aprendizaje estructuradas antes del lanzamiento oficial de la plataforma.
+Currently, I am independently developing the initial technical infrastructure of **AmyoSec** in private. My goal is to consolidate advanced proprietary tools and structured learning methodologies prior to the platform's official public launch.
 
 ---
 
-## 🚀 Proyectos Destacados (Fase 1)
+## 🚀 Featured Projects (Phase 1)
 
 ### 📊 SQL To Diagram (Harvard CS50x Final Project)
-> Herramienta web interactiva para transformar scripts SQL DDL en diagramas de bases de datos visuales (ERD). Desarrollada bajo una arquitectura enteramente serverless que se ejecuta en el cliente para garantizar la máxima privacidad y velocidad.
+> An interactive web tool to transform SQL DDL scripts into visual entity-relationship diagrams (ERD). Built with a fully serverless client-side architecture to ensure maximum privacy and performance.
 
-<p align="left">
-  <a href="https://github.com/AmyoSec/sql-to-diagram">
-    <img src="https://img.shields.io/badge/Repositorio-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo">
-  </a>
-  <img src="https://img.shields.io/badge/Acceso-Privado-red?style=flat-square" alt="Privado">
-  <img src="https://img.shields.io/badge/Licencia-PolyForm%20NC-orange?style=flat-square" alt="Licencia">
-</p>
+<p align="left"><a href="https://github.com/AmyoSec/sql-to-diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
 <br>
 
 ### 🗺️ AmyoSec Technical Path
-> Estructura central del roadmap técnico interactivo, definiciones curriculares y código fuente de la plataforma web. Diseñado bajo un entorno modular moderno y optimizado para despliegue continuo en la nube con entrega global inmediata.
+> The core architecture of the interactive technical roadmap, curriculum definitions, and web source code for the platform. Designed using a modern modular environment, optimized for continuous cloud deployment and immediate global delivery.
 
-<p align="left">
-  <a href="https://github.com/AmyoSec/amyosec-path-source">
-    <img src="https://img.shields.io/badge/Ruta-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo">
-  </a>
-  <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel">
-  <img src="https://img.shields.io/badge/Licencia-PolyForm%20NC-orange?style=flat-square" alt="Licencia">
-</p>
+<p align="left"><a href="https://github.com/AmyoSec/amyosec-path-source"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
 ---
 
-## 🛠️ Tecnologías y Stack Técnico
+## 🛠️ Technologies & Technical Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=black" alt="C">
@@ -61,13 +49,13 @@ Actualmente me encuentro construyendo de manera privada e independiente la infra
 
 ---
 
-## ⚖️ Términos Legales y Propiedad
+## ⚖️ Legal Terms & Ownership
 
-Todas las utilidades de software autónomas, marcas y los frameworks de arquitectura curricular desarrollados bajo este perfil (incluyendo *SQL To Diagram* y el *AmyoSec Path*) están protegidos bajo la licencia **PolyForm Noncommercial License 1.0.0**. Queda estrictamente prohibida su explotación comercial, venta, distribución no autorizada o monetización sin consentimiento previo.
+All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
 
 ---
 
-## Encuéntrame en:
+## Find me on:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
