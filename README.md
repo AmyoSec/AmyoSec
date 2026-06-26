@@ -17,14 +17,14 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 ### 📊 SQL To Diagram (Harvard CS50x Final Project)
 > An interactive web tool to transform SQL DDL scripts into visual entity-relationship diagrams (ERD). Built with a fully serverless client-side architecture to ensure maximum privacy and performance.
 
-<p align="left"><a href="https://github.com/AmyoSec/sql-to-diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
+<p align="left"><a href="https://github.com/AmyoSec/SQL-To-Diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
 <br>
 
 ### 🗺️ AmyoSec Technical Path
 > The core architecture of the interactive technical roadmap, curriculum definitions, and web source code for the platform. Designed using a modern modular environment, optimized for continuous cloud deployment and immediate global delivery.
 
-<p align="left"><a href="https://github.com/AmyoSec/amyosec-path"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
+<p align="left"><a href="https://github.com/AmyoSec/AmyoSec-Path"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
 ---
 
