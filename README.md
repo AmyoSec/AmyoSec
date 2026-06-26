@@ -4,7 +4,7 @@
 ---
 
 <!-- HEADER BADGES -->
-<p align="left"><a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://discord.gg/dTpAjvYjPb"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase"></p>
+<p align="left"><a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://discord.gg/R6nGqXVaC3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase"></p>
 
 I am an independent developer dedicated to mastering core computer science foundations and cybersecurity principles. 
 
@@ -55,5 +55,5 @@ All standalone software utilities, trademarks, and curriculum architecture frame
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.gg/dTpAjvYjPb"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/R6nGqXVaC3"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
