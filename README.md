@@ -23,8 +23,6 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left"><a href="https://github.com/AmyoSec/SQL-To-Diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
-<br>
-
 ### 🗺️ AmyoSec Technical Path
 > Modular web architecture and core source code powering AmyoSec's interactive technical roadmaps and curriculum tracking.
 
