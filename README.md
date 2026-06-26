@@ -14,15 +14,23 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 ## 🚀 Featured Projects (Phase 1)
 
-### 📊 SQL To Diagram (Harvard CS50x Final Project)
-> An interactive web tool to transform SQL DDL scripts into visual entity-relationship diagrams (ERD). Built with a fully serverless client-side architecture to ensure maximum privacy and performance.
+### 📊 SQL To Diagram (Extended CS50x Project)
+> Advanced web tool to transform SQL scripts into ER diagrams with automated security linting (flags unhashed passwords, weak constraints, etc.).
+
+* ⚡ **Extended MVP:** Upgraded with broader SQL support and security auditing beyond the basic CS50x submission.
+* 💻 **Current State:** 100% serverless, private and fast, hosted on GitHub Pages.
+* 🚀 **Coming Soon:** Cloud backend for cross-device synchronization (no more manual import/export between laptop and tablet).
 
 <p align="left"><a href="https://github.com/AmyoSec/SQL-To-Diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
 <br>
 
 ### 🗺️ AmyoSec Technical Path
-> The core architecture of the interactive technical roadmap, curriculum definitions, and web source code for the platform. Designed using a modern modular environment, optimized for continuous cloud deployment and immediate global delivery.
+> Modular web architecture and core source code powering AmyoSec's interactive technical roadmaps and curriculum tracking.
+
+* ⚡ **Modular Engine:** Built on a modern environment with automated CI/CD for instant global delivery.
+* 💻 **Current State:** The central live blueprint and technical backbone driving the Phase 1 platform launch.
+* 🚀 **Dynamic Tracking:** Handles user progression, phase milestones, and interactive syllabus structures seamlessly.
 
 <p align="left"><a href="https://github.com/AmyoSec/AmyoSec-Path"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
 
