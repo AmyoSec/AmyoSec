@@ -12,6 +12,13 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 ---
 
+## 🛠️ Phase 1 Focus & Core Technologies
+> Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat&logo=database&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
 ## 🚀 Featured Projects (Phase 1)
 
 ### 📊 SQL To Diagram (Extended CS50x Project)
@@ -31,13 +38,6 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 * 🚀 **Dynamic Tracking:** Handles user progression, phase milestones, and interactive syllabus structures seamlessly.
 
 <p align="left"><a href="https://github.com/AmyoSec/AmyoSec-Path"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
-
----
-
-## 🛠️ Phase 1 Focus & Core Technologies
-> Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat&logo=database&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
