@@ -6,12 +6,12 @@
 <!-- HEADER BADGES -->
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa">
-    <img src="https://img.shields.io/badge/LinkedIn-252220?style=for-the-badge&logo=linkedin&logoColor=d97757" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-252220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://discord.gg/R6nGqXVaC3">
-    <img src="https://img.shields.io/badge/Discord-252220?style=for-the-badge&logo=discord&logoColor=d97757" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-252220?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-4ade80?style=for-the-badge&labelColor=252220" alt="Phase">
+  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-d97757?style=for-the-badge&labelColor=252220" alt="Phase">
 </p>
 
 I am an independent developer dedicated to mastering core computer science foundations and cybersecurity principles. 
@@ -22,19 +22,18 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 ## 🛠️ Phase 1 Focus & Core Technologies
 
-> [!NOTE]
 > **Curriculum & Tech Stack:** Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-252220?style=flat-square&logo=c&logoColor=c4956a" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-252220?style=flat-square&logo=javascript&logoColor=c4956a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-252220?style=flat-square&logo=python&logoColor=c4956a" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-252220?style=flat-square&logo=googlecloudspanner&logoColor=c4956a" alt="SQL">
-  <img src="https://img.shields.io/badge/Flask-252220?style=flat-square&logo=flask&logoColor=c4956a" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-252220?style=flat-square&logo=html5&logoColor=c4956a" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-252220?style=flat-square&logo=css3&logoColor=c4956a" alt="CSS3">
-  <img src="https://img.shields.io/badge/Linux-252220?style=flat-square&logo=linux&logoColor=c4956a" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-252220?style=flat-square&logo=git&logoColor=c4956a" alt="Git">
+  <img src="https://img.shields.io/badge/C-252220?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-252220?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-252220?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-252220?style=flat-square&logo=googlecloudspanner&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Flask-252220?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-252220?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-252220?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Linux-252220?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-252220?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -50,7 +49,7 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left">
   <a href="https://github.com/AmyoSec/SQL-To-Diagram">
-    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-252220?style=flat-square&logo=github&logoColor=d97757" alt="Repo">
+    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-252220?style=flat-square&logo=github&logoColor=white" alt="Repo">
   </a>
   <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
 </p>
@@ -66,17 +65,17 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left">
   <a href="https://github.com/AmyoSec/AmyoSec-Path">
-    <img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-252220?style=flat-square&logo=github&logoColor=d97757" alt="Repo">
+    <img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-252220?style=flat-square&logo=github&logoColor=white" alt="Repo">
   </a>
-  <img src="https://img.shields.io/badge/Hosting-Vercel-252220?style=flat-square&logo=vercel&logoColor=d97757" alt="Vercel">
+  <img src="https://img.shields.io/badge/Hosting-Vercel-252220?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
 </p>
 
 ---
 
-> [!CAUTION]
-> ### ⚖️ Legal Terms & Ownership
-> All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
+## ⚖️ Legal Terms & Ownership
+
+All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
 
 ---
 
@@ -84,12 +83,12 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-252220?style=for-the-badge&logo=linkedin&logoColor=d97757" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-252220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://discord.gg/R6nGqXVaC3" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/DISCORD-252220?style=for-the-badge&logo=discord&logoColor=d97757" alt="Discord">
+    <img src="https://img.shields.io/badge/DISCORD-252220?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ametzllosagr@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GMAIL-252220?style=for-the-badge&logo=gmail&logoColor=d97757" alt="Gmail">
+    <img src="https://img.shields.io/badge/GMAIL-252220?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
