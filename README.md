@@ -4,7 +4,15 @@
 ---
 
 <!-- HEADER BADGES -->
-<p align="left"><a href="https://www.linkedin.com/in/ametz-llosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://discord.gg/R6nGqXVaC3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-00FF66?style=for-the-badge" alt="Phase"></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ametz-llosa">
+    <img src="https://img.shields.io/badge/LinkedIn-252220?style=for-the-badge&logo=linkedin&logoColor=d97757" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/R6nGqXVaC3">
+    <img src="https://img.shields.io/badge/Discord-252220?style=for-the-badge&logo=discord&logoColor=d97757" alt="Discord">
+  </a>
+  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-4ade80?style=for-the-badge&labelColor=252220" alt="Phase">
+</p>
 
 I am an independent developer dedicated to mastering core computer science foundations and cybersecurity principles. 
 
@@ -13,9 +21,21 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 ---
 
 ## 🛠️ Phase 1 Focus & Core Technologies
-> Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat&logo=database&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+> [!NOTE]
+> **Curriculum & Tech Stack:** Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-252220?style=flat-square&logo=c&logoColor=c4956a" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-252220?style=flat-square&logo=javascript&logoColor=c4956a" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-252220?style=flat-square&logo=python&logoColor=c4956a" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-252220?style=flat-square&logo=googlecloudspanner&logoColor=c4956a" alt="SQL">
+  <img src="https://img.shields.io/badge/Flask-252220?style=flat-square&logo=flask&logoColor=c4956a" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-252220?style=flat-square&logo=html5&logoColor=c4956a" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-252220?style=flat-square&logo=css3&logoColor=c4956a" alt="CSS3">
+  <img src="https://img.shields.io/badge/Linux-252220?style=flat-square&logo=linux&logoColor=c4956a" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-252220?style=flat-square&logo=git&logoColor=c4956a" alt="Git">
+</p>
 
 ---
 
@@ -28,7 +48,14 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 * 💻 **Current State:** 100% serverless, private and fast, hosted on GitHub Pages.
 * 🚀 **Coming Soon:** Cloud backend for cross-device synchronization (no more manual import/export between laptop and tablet).
 
-<p align="left"><a href="https://github.com/AmyoSec/SQL-To-Diagram"><img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
+<p align="left">
+  <a href="https://github.com/AmyoSec/SQL-To-Diagram">
+    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-252220?style=flat-square&logo=github&logoColor=d97757" alt="Repo">
+  </a>
+  <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
+</p>
+
+<br>
 
 ### 🗺️ AmyoSec Technical Path
 > Modular web architecture and core source code powering AmyoSec's interactive technical roadmaps and curriculum tracking.
@@ -37,20 +64,32 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 * 💻 **Current State:** The central live blueprint and technical backbone driving the Phase 1 platform launch.
 * 🚀 **Dynamic Tracking:** Handles user progression, phase milestones, and interactive syllabus structures seamlessly.
 
-<p align="left"><a href="https://github.com/AmyoSec/AmyoSec-Path"><img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-black?style=flat-square&logo=github" alt="Repo"></a><img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"><img src="https://img.shields.io/badge/License-PolyForm%20NC-orange?style=flat-square" alt="License"></p>
+<p align="left">
+  <a href="https://github.com/AmyoSec/AmyoSec-Path">
+    <img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-252220?style=flat-square&logo=github&logoColor=d97757" alt="Repo">
+  </a>
+  <img src="https://img.shields.io/badge/Hosting-Vercel-252220?style=flat-square&logo=vercel&logoColor=d97757" alt="Vercel">
+  <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
+</p>
 
 ---
 
-## ⚖️ Legal Terms & Ownership
-
-All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
+> [!CAUTION]
+> ### ⚖️ Legal Terms & Ownership
+> All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
 
 ---
 
-## Find me on:
+### Find me on:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ametz-llosa" style="text-decoration: none;"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://discord.gg/R6nGqXVaC3" style="text-decoration: none;"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ametzllosagr@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/ametz-llosa" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-252220?style=for-the-badge&logo=linkedin&logoColor=d97757" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/R6nGqXVaC3" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/DISCORD-252220?style=for-the-badge&logo=discord&logoColor=d97757" alt="Discord">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ametzllosagr@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GMAIL-252220?style=for-the-badge&logo=gmail&logoColor=d97757" alt="Gmail">
+  </a>
 </p>
