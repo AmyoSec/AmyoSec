@@ -88,7 +88,4 @@ All standalone software utilities, trademarks, and curriculum architecture frame
   <a href="https://discord.gg/R6nGqXVaC3" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/DISCORD-252220?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ametzllosagr@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GMAIL-252220?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </p>
