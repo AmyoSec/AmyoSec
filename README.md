@@ -46,10 +46,10 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left">
   <a href="https://github.com/AmyoSec/PhishLens">
-    <img src="https://img.shields.io/badge/Repository-PhishLens-0D0D12?style=flat-square&logo=github&logoColor=8E8EF7" alt="Repo">
+    <img src="https://img.shields.io/badge/Repository-PhishLens-0D0D12?style=flat&logo=github&logoColor=8E8EF7" alt="Repo">
   </a>
-  <img src="https://img.shields.io/badge/Manifest-V3-8E8EF7?style=flat-square&labelColor=0D0D12" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat-square&labelColor=0D0D12" alt="License">
+  <img src="https://img.shields.io/badge/Manifest-V3-8E8EF7?style=flat&labelColor=0D0D12" alt="Manifest V3">
+  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat&labelColor=0D0D12" alt="License">
 </p>
 
 <br>
@@ -63,9 +63,9 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 <p align="left">
   <a href="https://github.com/AmyoSec/SQL-To-Diagram">
-    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-0D0D12?style=flat-square&logo=github&logoColor=8E8EF7" alt="Repo">
+    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-0D0D12?style=flat&logo=github&logoColor=8E8EF7" alt="Repo">
   </a>
-  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat-square&labelColor=0D0D12" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat&labelColor=0D0D12" alt="License">
 </p>
 
 ---
