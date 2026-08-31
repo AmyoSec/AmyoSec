@@ -22,15 +22,15 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 > **Curriculum & Technologies:** Core tools, languages, and frameworks actively deployed throughout Phase 1 (CS50x, SQL, and initial product builds).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-0D0D12?style=flat-square&logo=c&logoColor=8E8EF7" alt="C">
-  <img src="https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=8E8EF7" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-0D0D12?style=flat-square&logo=typescript&logoColor=8E8EF7" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-0D0D12?style=flat-square&logo=nextdotjs&logoColor=8E8EF7" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D12?style=flat-square&logo=tailwindcss&logoColor=8E8EF7" alt="Tailwind">
-  <img src="https://img.shields.io/badge/PostgreSQL-0D0D12?style=flat-square&logo=postgresql&logoColor=8E8EF7" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=8E8EF7" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=8E8EF7" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=8E8EF7" alt="Git">
+  <img src="https://img.shields.io/badge/C-0D0D12?style=flat&logo=c&logoColor=8E8EF7" alt="C">
+  <img src="https://img.shields.io/badge/Python-0D0D12?style=flat&logo=python&logoColor=8E8EF7" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0D0D12?style=flat&logo=typescript&logoColor=8E8EF7" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-0D0D12?style=flat&logo=nextdotjs&logoColor=8E8EF7" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D12?style=flat&logo=tailwindcss&logoColor=8E8EF7" alt="Tailwind">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0D12?style=flat&logo=postgresql&logoColor=8E8EF7" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-0D0D12?style=flat&logo=docker&logoColor=8E8EF7" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-0D0D12?style=flat&logo=linux&logoColor=8E8EF7" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-0D0D12?style=flat&logo=git&logoColor=8E8EF7" alt="Git">
 </p>
 
 ---
