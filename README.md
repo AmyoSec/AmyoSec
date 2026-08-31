@@ -1,91 +1,116 @@
 # Hi, I'm Ametz Llosa 👋
 ### Founder of AmyoSec • Building Phase 1 (Foundation)
 
----
-
-<!-- HEADER BADGES -->
 <p align="left">
   <a href="https://www.linkedin.com/in/ametz-llosa">
-    <img src="https://img.shields.io/badge/LinkedIn-252220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D12?style=for-the-badge&logo=linkedin&logoColor=8E8EF7" alt="LinkedIn">
   </a>
   <a href="https://discord.gg/R6nGqXVaC3">
-    <img src="https://img.shields.io/badge/Discord-252220?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-0D0D12?style=for-the-badge&logo=discord&logoColor=8E8EF7" alt="Discord">
   </a>
-  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-d97757?style=for-the-badge&labelColor=252220" alt="Phase">
+  <a href="https://www.buymeacoffee.com/AmyoSec">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-8E8EF7?style=for-the-badge&logo=buymeacoffee&logoColor=0D0D12" alt="Buy Me A Coffee">
+  </a>
+  <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-8E8EF7?style=for-the-badge&labelColor=0D0D12" alt="Phase">
 </p>
 
-I am an independent developer dedicated to mastering core computer science foundations and cybersecurity principles. 
+I am an independent developer focused on Computer Science foundations, Cloud Security, and DevSecOps architecture.
 
-In line with AmyoSec's commitment to complete transparency, I am documenting my growth and building the technical infrastructure of the platform from the absolute ground up. Phase 1 is strictly focused on consolidating my fundamentals and creating proprietary utilities before the official public ecosystem launch.
+In line with AmyoSec's commitment to complete transparency, I am documenting my technical evolution publicly while building the core software utilities and homelab infrastructure from the ground up.
 
 ---
 
-## 🛠️ Phase 1 Focus & Core Technologies
+## ⚙️ Core Stack & Learning Roadmap
 
-> **Curriculum & Tech Stack:** Technologies and tools I am actively mastering and deploying during Phase 1 (CS50x Curriculum & AmyoSec Core Launch).
+> **Curriculum & Technologies:** Core tools, languages, and frameworks actively deployed throughout Phase 1 (CS50x, SQL, and initial product builds).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-252220?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-252220?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-252220?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-252220?style=flat-square&logo=googlecloudspanner&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Flask-252220?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-252220?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-252220?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Linux-252220?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-252220?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/C-0D0D12?style=flat-square&logo=c&logoColor=8E8EF7" alt="C">
+  <img src="https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=8E8EF7" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0D0D12?style=flat-square&logo=typescript&logoColor=8E8EF7" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-0D0D12?style=flat-square&logo=nextdotjs&logoColor=8E8EF7" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D12?style=flat-square&logo=tailwindcss&logoColor=8E8EF7" alt="Tailwind">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0D12?style=flat-square&logo=postgresql&logoColor=8E8EF7" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=8E8EF7" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=8E8EF7" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=8E8EF7" alt="Git">
 </p>
 
 ---
 
-## 🚀 Featured Projects (Phase 1)
+## 🛡️ Featured Projects
 
-### 📊 SQL To Diagram (Extended CS50x Project)
-> Advanced web tool to transform SQL scripts into ER diagrams with automated security linting (flags unhashed passwords, weak constraints, etc.).
+### 🔎 PhishLens
+> Web extension (Manifest V3) designed for real-time phishing, malicious domain, and typosquatting detection across developer and cloud ecosystems (GitHub, npm, PyPI, AWS).
 
-* ⚡ **Extended MVP:** Upgraded with broader SQL support and security auditing beyond the basic CS50x submission.
-* 💻 **Current State:** 100% serverless, private and fast, hosted on GitHub Pages.
-* 🚀 **Coming Soon:** Cloud backend for cross-device synchronization (no more manual import/export between laptop and tablet).
+* ⚡ **AI-Assisted & Audited:** Built leveraging AI-driven workflows while maintaining 100% human architectural auditing and code verification.
+* 🛡️ **Privacy First:** Intercepts URLs and form destinations locally with minimal browser permissions and zero user tracking.
+* 🚀 **Current State:** Active public extension MVP release.
 
 <p align="left">
-  <a href="https://github.com/AmyoSec/SQL-To-Diagram">
-    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-252220?style=flat-square&logo=github&logoColor=white" alt="Repo">
+  <a href="https://github.com/AmyoSec/PhishLens">
+    <img src="https://img.shields.io/badge/Repository-PhishLens-0D0D12?style=flat-square&logo=github&logoColor=8E8EF7" alt="Repo">
   </a>
-  <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Manifest-V3-8E8EF7?style=flat-square&labelColor=0D0D12" alt="Manifest V3">
+  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat-square&labelColor=0D0D12" alt="License">
 </p>
 
 <br>
 
-### 🗺️ AmyoSec Technical Path
-> Modular web architecture and core source code powering AmyoSec's interactive technical roadmaps and curriculum tracking.
+### 📊 SQL To Diagram
+> Interactive web application that parses raw SQL scripts (PostgreSQL, SQLite, MySQL) into dynamic ERD diagrams in real-time, featuring automated static security analysis.
 
-* ⚡ **Modular Engine:** Built on a modern environment with automated CI/CD for instant global delivery.
-* 💻 **Current State:** The central live blueprint and technical backbone driving the Phase 1 platform launch.
-* 🚀 **Dynamic Tracking:** Handles user progression, phase milestones, and interactive syllabus structures seamlessly.
+* ⚡ **AST Parsing Engine:** Transforms SQL DDL into Abstract Syntax Trees to auto-render table relationships dynamically.
+* 🔒 **Security Linting:** Detects exposed hardcoded credentials, unhashed password fields, and weak schema constraints before deployment.
+* 💻 **Current State:** 100% client-side, privacy-focused interactive tool.
 
 <p align="left">
-  <a href="https://github.com/AmyoSec/AmyoSec-Path">
-    <img src="https://img.shields.io/badge/Repository-AmyoSec%20Path-252220?style=flat-square&logo=github&logoColor=white" alt="Repo">
+  <a href="https://github.com/AmyoSec/SQL-To-Diagram">
+    <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-0D0D12?style=flat-square&logo=github&logoColor=8E8EF7" alt="Repo">
   </a>
-  <img src="https://img.shields.io/badge/Hosting-Vercel-252220?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/License-PolyForm%20NC-c4956a?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat-square&labelColor=0D0D12" alt="License">
 </p>
 
 ---
 
-## ⚖️ Legal Terms & Ownership
+## 📌 Featured Repositories
 
-All standalone software utilities, trademarks, and curriculum architecture frameworks developed under this profile (including *SQL To Diagram* and the *AmyoSec Path*) are protected under the **PolyForm Noncommercial License 1.0.0**. Any commercial exploitation, sale, unauthorized distribution, or monetization without prior explicit consent is strictly prohibited.
+<p align="left">
+  <a href="https://github.com/AmyoSec/PhishLens">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AmyoSec&repo=PhishLens&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12" alt="PhishLens Card"/>
+  </a>
+  <a href="https://github.com/AmyoSec/SQL-To-Diagram">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AmyoSec&repo=SQL-To-Diagram&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12" alt="SQL To Diagram Card"/>
+  </a>
+</p>
 
 ---
 
-### Find me on:
+## 📈 Activity & Ecosystem Stats
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ametz-llosa" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-252220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmyoSec&show_icons=true&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12&hide_border=false" alt="AmyoSec GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmyoSec&layout=compact&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+## ⚖️ Legal Terms & Intellectual Property
+
+Standalone open-source tools developed under AmyoSec are licensed under the **MIT License** unless otherwise specified. Ecosystem brand assets, design tokens (Argos System), and architecture framework documents (HLD/LLD) are protected under **Creative Commons BY-NC 4.0**.
+
+---
+
+### Connect & Support
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ametz-llosa">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D0D12?style=for-the-badge&logo=linkedin&logoColor=8E8EF7" alt="LinkedIn">
   </a>
-  <a href="https://discord.gg/R6nGqXVaC3" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/DISCORD-252220?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://discord.gg/R6nGqXVaC3">
+    <img src="https://img.shields.io/badge/DISCORD-0D0D12?style=for-the-badge&logo=discord&logoColor=8E8EF7" alt="Discord">
+  </a>
+  <a href="https://www.buymeacoffee.com/AmyoSec">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-8E8EF7?style=for-the-badge&logo=buymeacoffee&logoColor=0D0D12" alt="Buy Me A Coffee">
   </a>
 </p>
