@@ -8,9 +8,6 @@
   <a href="https://discord.gg/R6nGqXVaC3">
     <img src="https://img.shields.io/badge/Discord-0D0D12?style=for-the-badge&logo=discord&logoColor=8E8EF7" alt="Discord">
   </a>
-  <a href="https://www.buymeacoffee.com/AmyoSec">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-8E8EF7?style=for-the-badge&logo=buymeacoffee&logoColor=0D0D12" alt="Buy Me A Coffee">
-  </a>
   <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-8E8EF7?style=for-the-badge&labelColor=0D0D12" alt="Phase">
 </p>
 
@@ -69,28 +66,6 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
     <img src="https://img.shields.io/badge/Repository-SQL%20to%20Diagram-0D0D12?style=flat-square&logo=github&logoColor=8E8EF7" alt="Repo">
   </a>
   <img src="https://img.shields.io/badge/License-MIT-8E8EF7?style=flat-square&labelColor=0D0D12" alt="License">
-</p>
-
----
-
-## 📌 Featured Repositories
-
-<p align="left">
-  <a href="https://github.com/AmyoSec/PhishLens">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AmyoSec&repo=PhishLens&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12" alt="PhishLens Card"/>
-  </a>
-  <a href="https://github.com/AmyoSec/SQL-To-Diagram">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AmyoSec&repo=SQL-To-Diagram&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12" alt="SQL To Diagram Card"/>
-  </a>
-</p>
-
----
-
-## 📈 Activity & Ecosystem Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmyoSec&show_icons=true&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12&hide_border=false" alt="AmyoSec GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmyoSec&layout=compact&theme=transparent&title_color=8E8EF7&text_color=F4F4F0&icon_color=8E8EF7&border_color=8E8EF7&border_radius=12&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
