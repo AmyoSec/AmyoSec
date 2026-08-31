@@ -74,4 +74,5 @@ In line with AmyoSec's commitment to complete transparency, I am documenting my 
 
 Standalone open-source tools developed under AmyoSec are licensed under the **MIT License** unless otherwise specified. Ecosystem brand assets, design tokens (Argos System), and architecture framework documents (HLD/LLD) are protected under **Creative Commons BY-NC 4.0**.
 
----
+
+
