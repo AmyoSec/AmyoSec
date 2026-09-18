@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/ametz-llosa">
     <img src="https://img.shields.io/badge/LinkedIn-0D0D12?style=flat&logo=linkedin&logoColor=8E8EF7" alt="LinkedIn">
   </a>
-  <a href="https://discord.gg/R6nGqXVaC3">
-    <img src="https://img.shields.io/badge/Discord-0D0D12?style=flat&logo=discord&logoColor=8E8EF7" alt="Discord">
-  </a>
   <img src="https://img.shields.io/badge/Ecosystem-Phase%201%20--%20Foundation-8E8EF7?style=flat&labelColor=0D0D12" alt="Phase">
 </p>
 
